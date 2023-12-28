@@ -8,7 +8,7 @@
 
 [Clean Architecture의 다이어그램]
 
-<img src = "image-1.png" width="400"></img>
+<img src = "./images/image-1.png" width="400"></img>
 
 ## Clean Architecture + MVVM
 
@@ -45,7 +45,7 @@
 
 Data flow
 
-<img src = "image.png" width="600"></img>
+<img src = "./images/image.png" width="600"></img>
 
 ## 출처
 - [[iOS] CleanArchitecture 톺아보기](https://velog.io/@yoosa3004/iOS-CleanArchitecture-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0#reposiotry-interface)
