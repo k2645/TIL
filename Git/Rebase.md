@@ -42,3 +42,8 @@ feature 브랜치를 생성하고 해당 브랜치에서 작업을 진행하고 
     git merge --no-ff feat/layout
     ```
     <img src="./images/image4.png" width=400px></img>
+
+## 출처
+
+- [[GIT 좀 더 이해하기] 3. merge 와 rebase 차이](https://kghworks.tistory.com/133)
+- [SourceTree에서 Rebase+Merge로 깔끔한 브랜치라인 유지하기](https://wbluke.tistory.com/26)
